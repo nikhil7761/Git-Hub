@@ -57,4 +57,7 @@ add to server for pull(fetch) and push
 18.git push -u origin main
 error src refspec main does not match
 
+19.convert metadata into source code
+git clone file:///C:/git/Devops_Tools/Gitea_Repositories_Backup/Gitea_Repository_Backup17-07-2024/.Gitea-Repositories_17-07-2024/ifinixfintech_aws/aws_lambdafunction.git
+
 
