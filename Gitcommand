@@ -69,3 +69,8 @@ git reset
 21.after commit how to go back
 git reset --hard HEAD~1
 
+
+22.git add <filename>
+
+23 git add *
+
